@@ -1,6 +1,6 @@
 [P0]
 ' 10 VAC:$="\LE \GE \LA \RA \DT\DV+\TR\CI":M=5
-11 VAC:$="\LE \GE \LA \RA \DT+\CI":M=3
+10 VAC:$="\LE \GE \LA \RA \DT+\CI":M=3
 60 GOTO #1
 [P1]
 10 PRINT "HEIJO ALIAN"

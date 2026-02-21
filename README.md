@@ -1,4 +1,4 @@
-# ポケコン PB-100用ゲーム 『平城京エイリアン』
+# ポケコン PB-100用ゲーム 『平城京エイリアン　heijo』
 
 ## 動作機種
 CASIO PB-100系実機/PB-Simulator（PocketBASIC-Simulator）<br>
